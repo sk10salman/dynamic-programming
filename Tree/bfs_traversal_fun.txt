@@ -1,0 +1,15 @@
+
+void levelOrder(Node* node)
+{
+  //Your code here
+  if(!node)return;
+queue<struct Node*>q;
+q.push(node);
+while(!q.empty()){
+struct Node * x = q.front();
+cout<<x->data<<" ";
+q.pop();
+if(x->left)q.push(x->left);
+if(x->right)q.push(x->right);
+}
+}
