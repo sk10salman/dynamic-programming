@@ -1,0 +1,4 @@
+Respected Sir,we are trying to make our project using neural networks.I have shared the PDF of the procedure in which the steps are written about how our project will be made.
+We have completed the image processing using Opencv ,in image processing how we read ,write,resizing image and also color variation.We have also completed some activation functions that we will use for our project.Here are some Activation Functions...Relu Activation,Sigmoid,Softmax,Loss Functions,Gradient Descent and Optimization.We have also shared How CNN works.
+Thanking You
+Yours Sincerelysalman khan2017kucp1052(members- saksham kashyap,Naresh Upadhyay)
